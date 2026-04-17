@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>JS Bin</title>
-</head>
-<body>
 # **Privacy Policy for Tissu Georgia**
 
 # **Privacy Policy**
@@ -225,5 +217,3 @@ If you have any questions about this Privacy Policy, You can contact us:
 - By email: tissu.georgia@gmail.com
 
 Generated using [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/free-privacy-policy-generator/)
-</body>
-</html>
